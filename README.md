@@ -18,7 +18,7 @@
 Ситуация аналогична ситуации с гистном H3.
 
 ## Blast
-Затем был проведен анализ гомологов(программа BLAST), а также выбор последовательностей гистонов и автоматиечское составление таблиц с E-value -log(E-value). (см. [тетрадку](https://github.com/Ne-minus/hse23_project/blob/main/table.ipynb)) 
+Затем был проведен анализ гомологов(программа BLAST), а также выбор последовательностей гистонов и автоматиечское составление таблиц с E-value -log(E-value). (см. [тетрадку](https://github.com/Ne-minus/hse23_project/blob/main/table.ipynb) -- работала на сервере через vscode) 
 ## Результаты
 Нелогарифмированные результаты:  
 ![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/no_log.png)  
@@ -29,7 +29,7 @@
 ![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/log10.png)
 
 ## Heatmap
-Код посмотрения см. в [тетрадке](https://github.com/Ne-minus/hse23_project/blob/main/table.ipynb)
+Код посмотрения см. в [тетрадке]  (https://github.com/Ne-minus/hse23_project/blob/main/table.ipynb)
 Натуральный логарифм:  
 ![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/heatmap.png)
 Логариифм с основанием 10:  
