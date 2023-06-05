@@ -29,6 +29,7 @@
 ![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/log10.png)
 
 ## Heatmap
+Код посмотрения см. в [тетрадке](https://github.com/Ne-minus/hse23_project/blob/main/table.ipynb)
 Натуральный логарифм:  
 ![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/heatmap.png)
 Логариифм с основанием 10:  
