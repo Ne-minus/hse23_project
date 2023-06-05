@@ -23,8 +23,9 @@
 Нелогарифмированные результаты:  
 ![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/no_log.png)  
 Натуральный логарифм:  
-![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/log.png)
-Логариифм с основанием 10:  
+![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/log.png)  
+
+**Логариифм с основанием 10:**  
 ![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/log10.png)
 
 ## Heatmap
