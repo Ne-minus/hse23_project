@@ -15,4 +15,20 @@
 
 **Гистон H4**
 ![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/h4_clust.png)
-Ситуация аналогична ситуации с гистном H3
+Ситуация аналогична ситуации с гистном H3.
+
+## Blast
+Затем был проведен анализ гомологов(программа BLAST), а также выбор последовательностей гистонов и автоматиечское составление таблиц с E-value -log(E-value). (см. [тетрадку](https://github.com/Ne-minus/hse23_project/blob/main/table.ipynb)) 
+## Результаты
+Нелогарифмированные результаты:  
+![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/no_log.png)  
+Натуральный логарифм:  
+![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/log.png)
+Логариифм с основанием 10:  
+![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/log10.png)
+
+## Heatmap
+Натуральный логарифм:  
+![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/heatmap.png)
+Логариифм с основанием 10:  
+![](https://github.com/Ne-minus/hse23_project/blob/main/data/screenshots/heatmap_log10.png)
